@@ -69,8 +69,8 @@ streamlit run app.py
 This project is licensed under the MIT License. Feel free to use and modify it!
 
 ## Contact
-- **LinkedIn**: [Harshini Vutukuri](https://linkedin.com/in/harshini-vutukuri)
-- **Email**: [harshinivutukuri@example.com](mailto:harshinivutukuri@example.com)
+- **LinkedIn**: [Harshini Vutukuri](https://www.linkedin.com/in/harshini1v/)
+- **Email**: [harshinivutukuri](https://www.linkedin.com/in/harshini1v/)
 
 Happy Coding! 🚀
 
