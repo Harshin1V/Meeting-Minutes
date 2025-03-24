@@ -9,7 +9,7 @@ AUDIO_MODEL = "openai/whisper-medium"
 LLAMA = "meta-llama/Meta-Llama-3.1-8B-Instruct"
 
 # Load Hugging Face Token
-hf_token = "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"
+hf_token = "hf_token_here"
 if not hf_token:
     raise ValueError("Hugging Face token not found. Set HF_TOKEN in environment variables.")
 login(hf_token)
